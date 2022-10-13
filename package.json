@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-portfolio-project",
+  "version": "1.0.0",
+  "description": "My first NodeJs ZURI Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
