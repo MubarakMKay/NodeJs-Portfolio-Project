@@ -39,5 +39,5 @@ const app = http.createServer((req, res) => {
 })
 
 app.listen('5000', () => {
-    'Server is actively listening...'
+    console.log('Server is actively listening on port 5000');
 })
