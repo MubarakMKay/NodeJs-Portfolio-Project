@@ -1,4 +1,4 @@
-# NodeJs-Portfolio-Project
+# Zuri-Portfolio-Project
 
 In the project directory, you can run:
 
